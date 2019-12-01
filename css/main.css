@@ -16,6 +16,20 @@ img {
   width: 100px;
 }
 
+div {
+  padding: 1.5rem;
+  line-height: 0.5;
+  font-family: "Open Sans";
+}
+
+h4 {
+  font-style: italic;
+}
+
+a{
+  background-color: #333;
+}
+
 .card-1{
   background-color: #e2e2e2;
 }
